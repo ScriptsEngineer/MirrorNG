@@ -27,7 +27,7 @@
         {
             "displayName": "ChangeScene",
             "description": "Demo for normal or additive scene switching",
-            "path": "Samples~/ListServer"
+            "path": "Samples~/ChangeScene"
         },
         {
             "displayName": "Chat",
